@@ -6,8 +6,6 @@ import java.sql.SQLException;
 import javax.naming.InitialContext;
 import javax.sql.DataSource;
 
-import org.eclipse.tags.shaded.org.apache.regexp.recompile;
-
 public class DBUtil {
 
 	private static DataSource dataSource;
